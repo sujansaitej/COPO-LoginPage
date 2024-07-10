@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    line-height: normal;
+    font-family: var(--font-montserrat);
+}
+
+:root {
+    /* fonts */
+    --font-montserrat: 'Montserrat', sans-serif;
+
+    /* font sizes */
+    --font-size-smi: 13px;
+    --font-size-5xl: 24px;
+    --font-size-lgi: 19px;
+
+    /* Colors */
+    --color-white: #ffffff;
+    --color-silver: #bcbec0;
+
+    /* Gaps */
+    --gap-5xl: 24px;
+    --gap-5xs: 8px;
+
+    /* Paddings */
+    --padding-xl: 20px;
+    --padding-220xl: 239px;
+    --padding-6xs: 7px;
+    --padding-mini: 15px;
+    --padding-base: 16px;
+
+    /* Border radiuses */
+    --br-9xl-5: 28.5px;
+    --br-8xs: 5px;
+}
